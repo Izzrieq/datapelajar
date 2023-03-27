@@ -9,3 +9,6 @@ body{
 table{
     margin: 10px;
 }
+tr,td{
+    padding: 5px;
+}
